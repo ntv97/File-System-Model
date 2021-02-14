@@ -1,0 +1,5 @@
+MOUNT
+OPEN    file1
+SEEK    0
+READ	20	FILE	file1
+UMOUNT
